@@ -97,19 +97,32 @@ Jika Saya sebagai penduduk di desa tersebut. Saya akan menyarankan perangkat Des
 
 **Analisa :**
 
-Setoran bulanan (PMT) => 30% dari 15.000.000 = 4.500.000
+Setoran bulanan => 30% dari 15.000.000 = 4.500.000
 
-Bunga bulanan (r) = 0.02
+Bunga bulanan = 20 % = 0.02
 
-Durasi menabung (n) = 5 * 12 = 60 bulan
+Durasi menabung = 5 * 12 = 60 bulan
 
 Biaya Administrasi = 50.000
 
 .
 
+Ilustrasi jumlah tabungan setiap bulan
 
+| Bulan ke-X | Saldo Tabungan setelah setoran | Saldo setelah penambahan Bunga | Saldo setelah Biaya Administrasi |
+|----|----------------|-----------------|-----------------|
+| 1  |   4.500.000  | 4.590.000 | 4.540.000 |
+| 2  |   9.040.000  | 9.220.800 | 9.170.800 |
+| 3  | 13.670.800 | 13.944.216 | 13.894.216 |
+| 4  | 18.394.216 | 18.762.100 | 18.712.100 |
+| 5 | 23.212.100 | 23.676.342 | 23.626.342 |
+| . |
+| . |
+| . |
+| 60 | 507.690.185 | 517.843.989 | 517.793.989 |
 
 .
 
+Jani, nilai tabungan Mikasa setelah 5 tahun adalah **Rp. 517.793.989,-**
 
 
