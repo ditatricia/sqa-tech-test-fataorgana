@@ -90,3 +90,26 @@ Jika Saya sebagai penduduk di desa tersebut. Saya akan menyarankan perangkat Des
 
 
 ----
+
+## Soal 2
+
+**Mikasa baru saja bekerja di Perusahaan BUMN dan mendapatkan gaji Rp15.000.000,-/bulan. Mikasa mengalokasikan 30% penghasilannya untuk ditabung dengan bunga bulanan 2%. Jika setiap bulan dia terkena biaya administrasi sebesar Rp 50.000,00 setelah penambahan bunga dan dia selalu setor sebelum perhitungan bunga, berapakah nilai tabungan Mikasa setelah 5 tahun?**
+
+**Analisa :**
+
+Setoran bulanan (PMT) => 30% dari 15.000.000 = 4.500.000
+
+Bunga bulanan (r) = 0.02
+
+Durasi menabung (n) = 5 * 12 = 60 bulan
+
+Biaya Administrasi = 50.000
+
+.
+
+
+
+.
+
+
+
